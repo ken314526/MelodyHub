@@ -1,6 +1,7 @@
 import CarouselCards from "@/components/CarouselCards";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
@@ -12,6 +13,7 @@ export default function Home() {
       <WhyChooseUs />
       <CarouselCards />
       <UpcomingWebinars />
+      <Instructors />
     </main>
   );
 }
