@@ -1,5 +1,6 @@
 import CarouselCards from "@/components/CarouselCards";
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
@@ -14,6 +15,7 @@ export default function Home() {
       <CarouselCards />
       <UpcomingWebinars />
       <Instructors />
+      <Footer />
     </main>
   );
 }
