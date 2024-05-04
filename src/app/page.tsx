@@ -1,4 +1,4 @@
-import CarouselCards from "@/components/CarouselCards";
+import Testimonials from "@/components/Testimonials";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
@@ -12,7 +12,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedCourses />
       <WhyChooseUs />
-      <CarouselCards />
+      <Testimonials />
       <UpcomingWebinars />
       <Instructors />
       <Footer />
