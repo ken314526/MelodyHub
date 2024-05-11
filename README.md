@@ -18,7 +18,7 @@ MelodyHub is a music academy website built with Next.js, providing a platform fo
 - **`Framer Motion:`** Library for creating fluid animations and interactions in React applications.
 - **`mini-svg-data-uri:`** Utility for optimizing SVG usage by converting SVG files into data URIs.
 - **`Simplex Noise:`** Library for generating simplex noise, commonly used in procedural generation.
-- **`Tailwind CSS:`** Utility-first CSS framework for creating custom designs without leaving your HTML. Styled with Tailwind CSS for rapid development and easy customization.
+- **`Tailwind CSS:`** Styled with Tailwind CSS for rapid development and easy customization.
 - **`PostCSS:`** Tool for transforming CSS with JavaScript plugins.
 - **`TypeScript:`** Typed superset of JavaScript that compiles to plain JavaScript.
 
